@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-uid",
+  "version": "1.1.0",
+  "description": "Cordova plugin to return the unique identifiers: UUID, IMEI, IMSI, ICCID and MAC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boltex/cordova-plugin-uid.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "UUID",
+    "IMEI",
+    "IMSI",
+    "ICCID",
+    "MAC",
+    "plugin"
+  ],
+  "author": "hygieiasoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boltex/cordova-plugin-uid/issues"
+  },
+  "homepage": "https://github.com/boltex/cordova-plugin-uid#readme"
+}
